@@ -1,6 +1,6 @@
 # orlando-cares-data
 
-Daily scraper for City of Orlando volunteer opportunities for the Orlando Cares Passport.
+Daily scraper for City of Orlando volunteer opportunities. The JSON output is consumed by Mission Reboot as a non-emergency `community_opportunities` feed.
 
 ## Overview
 
@@ -59,9 +59,11 @@ python scraper.py
 
 The scraper will:
 - Fetch volunteer opportunities from the target URL
-- Parse and extract opportunity data (title, description, link, date, location, etc.)
+- Filter non-record links such as "more details" and template URLs
+- Deduplicate records by Orlando opportunity ID
+- Best-effort enrich records from detail pages
 - Save results to `orlando_cares_opportunities.json`
-- Print the number of opportunities scraped
+- Refuse to publish an empty feed
 
 ### Output Format
 
@@ -69,20 +71,42 @@ The scraper generates `orlando_cares_opportunities.json` with the following stru
 
 ```json
 {
+  "schema_version": 1,
   "scraped_at": "2024-01-01T00:00:00",
+  "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
   "total_opportunities": 42,
   "opportunities": [
     {
+      "id": "orlando-cares-3428",
+      "source_id": "3428",
       "title": "Opportunity Title",
       "link": "https://...",
       "description": "...",
       "date": "...",
-      "location": "..."
+      "location": "...",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": ["community"],
+      "last_seen_at": "2024-01-01T00:00:00+00:00"
     }
   ]
 }
 ```
+
+## Mission Reboot Integration
+
+Mission Reboot imports this feed into Firestore collection `community_opportunities`.
+
+From the Mission Reboot repo:
+
+```bash
+npm run import:orlando-cares -- --dry-run
+npm run import:orlando-cares
+```
+
+Use `ORLANDO_CARES_FEED_PATH=/path/to/orlando_cares_opportunities.json` to import a non-default feed location.
 
 ## GitHub Actions
 

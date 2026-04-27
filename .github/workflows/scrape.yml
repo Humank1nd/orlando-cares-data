@@ -1,0 +1,49 @@
+name: Daily Orlando Cares Scrape
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Validate feed
+        run: |
+          python - <<'PY'
+          import json
+          with open("orlando_cares_opportunities.json", encoding="utf-8") as f:
+              data = json.load(f)
+          assert data["schema_version"] == 1
+          assert data["total_opportunities"] == len(data["opportunities"])
+          assert data["total_opportunities"] > 0
+          for item in data["opportunities"]:
+              assert item["id"].startswith("orlando-cares-")
+              assert item["title"].lower() not in {"more details", "opportunity details"}
+              assert item["link"].startswith("https://volunteer.orlando.gov/")
+          PY
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data: update Orlando Cares opportunities"
+          file_pattern: orlando_cares_opportunities.json
