@@ -1,416 +1,278 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-04-27T04:28:41.225839+00:00",
+  "scraped_at": "2026-06-03T06:58:47.658245+00:00",
   "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-  "total_opportunities": 25,
+  "total_opportunities": 16,
   "opportunities": [
     {
-      "id": "orlando-cares-3428",
-      "source_id": "3428",
-      "title": "Wreaths Across America at Greenwood Cemetery 2025",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3428",
-      "description": "",
-      "date": "",
-      "location": "",
+      "id": "orlando-cares-3512",
+      "source_id": "3512",
+      "title": "Youth Football Cheer and Dance Coach 2026- Rock Lake Neighborhood Center (Cowboys)",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3512",
+      "description": "Youth Football Cheer and Dance Coach 2026- Rock Lake Neighborhood Center (Cowboys) Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 26, 2025 - November 29, 2025 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 04/20/2026 through 30 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 440 North Tampa Avenue Orlando , FL 32805 Location Description: Rock Lake Neighborhood Center Coordinates: 28.548537,-81.407756 Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@cityoforlando.net Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone about th",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
       "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "historical",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:57:42.238923+00:00"
+    },
+    {
+      "id": "orlando-cares-3499",
+      "source_id": "3499",
+      "title": "Youth Football Cheer and Dance Coach 2026- Ivey Lane Neighborhood Center (Jaguars)",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3499",
+      "description": "Youth Football Cheer and Dance Coach 2026- Ivey Lane Neighborhood Center (Jaguars) Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 26, 2025 - November 29, 2025 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 04/20/2026 through 27 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 291 Silverton St Orlando , FL 32811 Location Description: Ivey Lane Neighborhood Center Get Directions Coordinates: 28.545232,-81.438167 Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@cityoforlando.net Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:57:46.457902+00:00"
+    },
+    {
+      "id": "orlando-cares-3513",
+      "source_id": "3513",
+      "title": "Youth Football Cheer and Dance Coach 2026 -Jackson Neighborhood Center (Saints)",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3513",
+      "description": "Youth Football Cheer and Dance Coach 2026 -Jackson Neighborhood Center (Saints) Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 6 - November 29 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 04/20/2026 through 30 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 800 Grand St. Orlando , FL 32805 Location Description: Grand Avenue Neighborhood Center Coordinates: 28.525591,-81.39046 Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@orlando.gov Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone about this opportunity. (see location",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:57:50.935651+00:00"
+    },
+    {
+      "id": "orlando-cares-3514",
+      "source_id": "3514",
+      "title": "Youth Football Cheer and Dance Coach 2026 - Rosemont Neighborhood Center",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3514",
+      "description": "Youth Football Cheer and Dance Coach 2026 - Rosemont Neighborhood Center Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 6 - November 29 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 04/20/2026 through 25 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 4872 Rose Bay Dr. Orlando , FL 32808 Location Description: Rosemont Neighborhood Center Coordinates: 28.601488,-81.43991 Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@orlando.gov Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone about this opportunity. (see location for op",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:57:55.188645+00:00"
+    },
+    {
+      "id": "orlando-cares-3515",
+      "source_id": "3515",
+      "title": "Youth Football Cheer and Dance Coach 2026 - Northwest Neighborhood Center",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3515",
+      "description": "Youth Football Cheer and Dance Coach 2026 - Northwest Neighborhood Center Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 6 - November 29 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 04/20/2026 through 29 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 3955 West D Judge Drive Orlando , FL 32808 Location Description: Northwest Neighborhood Center Coordinates: 28.561087,-81.42744 Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@cityoforlando.net Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone about this opportunity. (see l",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:57:59.380552+00:00"
+    },
+    {
+      "id": "orlando-cares-3517",
+      "source_id": "3517",
+      "title": "Youth Football Cheer and Dance Coach 2026 - James R. Smith Neighborhood Center (49ers)",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3517",
+      "description": "Youth Football Cheer and Dance Coach 2026 - James R. Smith Neighborhood Center (49ers) Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 6 - November 29 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 04/20/2026 through 29 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 1724 Bruton Blvd. Orlando , FL 32805 Location Description: Dr. James R. Smith Neighborhood Center Coordinates: 28.520936,-81.426138 Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@orlando.gov Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone about this opportun",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:58:03.829361+00:00"
+    },
+    {
+      "id": "orlando-cares-3516",
+      "source_id": "3516",
+      "title": "Youth Football Cheer and Dance Coach 2026 - Grand Ave",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3516",
+      "description": "Youth Football Cheer and Dance Coach 2026 - Grand Ave Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 6 - November 29 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 04/20/2026 through 30 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur , Location Description: Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@orlando.gov Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone about this opportunity. (see location for opportunity location) , FL Sign Up No schedule slot openings available. Login New Volunteer Close",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:58:08.017878+00:00"
+    },
+    {
+      "id": "orlando-cares-3518",
+      "source_id": "3518",
+      "title": "Youth Football Cheer and Dance Coach 2026 - ColonialTown",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3518",
+      "description": "Youth Football Cheer and Dance Coach 2026 - ColonialTown Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 6 - November 29 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 04/20/2026 through 30 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 1517 Lake Highland Drive Orlando , FL 32803 Location Description: Coordinates: 28.561909,-81.361081 Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@orlando.gov Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone about this opportunity. (see location for opportunity location) , FL Sign Up No s",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:58:12.190878+00:00"
+    },
+    {
+      "id": "orlando-cares-3519",
+      "source_id": "3519",
+      "title": "Youth Football Cheer and Dance Coach 2026 - Callahan",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3519",
+      "description": "Youth Football Cheer and Dance Coach 2026 - Callahan Families, Parks and Recreation 0 similar opportunities Similar Opportunities Description The City of Orlando is seeking volunteer coaches to help create a positive environment that promotes self-confidence and life skills, while teaching the fundamentals of football. September 6, 2025 - November 29, 2025 Application Deadline: July 31, 2025 Practice: Weekly from 6:00pm - 8:00pm Days determined by coach Season: 8 games Saturdays from September 6 - November 29 Between 8:00am-4:00pm Requirements: Applicants must complete a Level 2 background screening, fingerprint check, and attend a mandatory orientation. Once cleared, coaches will be provided CPR and Coaches Certification class. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 04/20/2026 through 29 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 101 North Parramore Ave Orlando , FL 32801 Location Description: Coordinates: 28.544318,-81.388635 Contact Info Contact person for the opportunity Contact 1 Contact Name: Mary Henderson Email: mary.henderson@orlando.gov Primary Phone: (407) 246-4037 Contact 2 Fax: (689) 230-9860 Contact Address Address to use when contacting someone about this opportunity. (see location for opportunity location) , FL Sign Up No schedu",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "community"
+      ],
+      "last_seen_at": "2026-06-03T06:58:16.311476+00:00"
+    },
+    {
+      "id": "orlando-cares-3283",
+      "source_id": "3283",
+      "title": "Volunteer: Orlando Wetlands Visitor Center",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3283",
+      "description": "Volunteer: Orlando Wetlands Visitor Center Orlando Wetlands 0 similar opportunities Similar Opportunities Description Join our community of friendly & dedicated volunteers, the Friends of the Orlando Wetlands, to support the mission and operations of the Orlando Wetlands. Become an Orlando Wetlands ambassador today! BEFORE SIGNING UP: Attending an orientation session is required. 2026 options: Sat, May 30th Sat, July 25th Sat, September 19th Sat, November 14th 8:30 AM - 11:30 AM. Times/dates subject to change. LIMITED SPOTS, RSVP REQUIRED. Activities include: Front Desk: Tues - Sat General operation of the Visitor Center, including opening/closing procedures, greet visitors, provide info, phone reception, restock, light cleaning/organization, process transactions, operate basic tech, & other duties as needed/assigned. Docent: Tues - Sat Greet visitors, interpret displays, live animals & models, lead hands-on interactive activities, run the Education Cart, operate basic tech, interact with all ages, stand/sit for long periods of time, & other duties as needed/assigned. Time Commitment: Volunteers participate on an ongoing & recurring basis such as weekly or monthly. Shifts ~ 4 hours in length; 8:30 AM - 12:30 PM (morning) or 12:15 PM - 4:30 PM (afternoon). Setting: Most work is indoors/directly with people, but will occasionally be in a wetlands environment, potentially exposed to weather/wildlife. Work will involve interacting with the public, providing info, standing/sitting",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
       "tags": [
         "parks",
-        "veteran_adjacent"
+        "community"
       ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
+      "last_seen_at": "2026-06-03T06:58:20.607119+00:00"
     },
     {
-      "id": "orlando-cares-3421",
-      "source_id": "3421",
-      "title": "McQuigg Garden Volunteer Workday 11/20/2025",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3421",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "historical",
-      "tags": [
-        "parks"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3419",
-      "source_id": "3419",
-      "title": "Youth Baseball and Softball Coach 2026",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3419",
-      "description": "",
-      "date": "",
-      "location": "",
+      "id": "orlando-cares-3304",
+      "source_id": "3304",
+      "title": "Volunteer: Orlando Wetlands Tram Tours or Gardening",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3304",
+      "description": "Volunteer: Orlando Wetlands Tram Tours or Gardening Orlando Wetlands 0 similar opportunities Similar Opportunities Description Join the Friends of the Orlando Wetlands volunteer group to support the mission and operations of the Orlando Wetlands. Activities include: Wednesday mornings Maintain wildlife garden and other planting projects in the Wetlands. Fridays, Saturdays, and Sundays all day Conducting guided tours and tram tour logistics: recording golf cart tour data, processing donations, managing parking (if needed), etc. Other Periodically, there are other volunteer opportunities to assist with at outreach events, conduct tours for reserved groups, and more. Time Commitment: Volunteers participate on an ongoing and recurring basis such as weekly or monthly. Shift hours vary, but are typically no less than 4 hours in length. Setting: Most work is conducted outdoors in a wetlands environment where volunteers will be exposed to weather, wildlife, people. Work may involve operating tram carts and using basic gardening tools. Skills: No qualifications required. Benefits: Being a friend of the \"Friends of the Orlando Wetlands\" group! Opportunities to participate in shaping the direction of our programs and volunteer opportunities. Periodic social and learning events. Training: Training will be provided by staff and experienced volunteers. All new volunteers wanting to lead tours will shadow staff and other volunteers on tours until they are ready to lead on their own. Screeni",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
       "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
       "status": "available",
       "tags": [
-        "youth"
+        "parks",
+        "community"
       ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
+      "last_seen_at": "2026-06-03T06:58:24.928369+00:00"
     },
     {
-      "id": "orlando-cares-3127",
-      "source_id": "3127",
-      "title": "Youth Girls Lacrosse Coach - 2026",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3127",
-      "description": "",
-      "date": "",
-      "location": "",
+      "id": "orlando-cares-3509",
+      "source_id": "3509",
+      "title": "Volunteer Open House for Harry P. Leu Gardens - July 2026",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3509",
+      "description": "Volunteer Open House for Harry P. Leu Gardens - July 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: July 11th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 07/11/2026 through 28 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule ",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
       "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
       "status": "available",
       "tags": [
-        "youth"
+        "parks",
+        "education",
+        "community"
       ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
+      "last_seen_at": "2026-06-03T06:58:29.223873+00:00"
     },
     {
-      "id": "orlando-cares-3410",
-      "source_id": "3410",
-      "title": "Youth Basketball, Cheer, and Dance Coach 2026- Agape Magic",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3410",
-      "description": "",
-      "date": "",
-      "location": "",
+      "id": "orlando-cares-3508",
+      "source_id": "3508",
+      "title": "Free Family Funday - JUNE 2026",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3508",
+      "description": "Free Family Funday - JUNE 2026 The Mennello Museum of American Art 0 similar opportunities Similar Opportunities Description Volunteers needed on June 14th, 2026 from 11:00am to 4:30pm. On the 2nd Sunday of every month, the Mennello Museum of American Art has free admission all day, plus a fine art project! Each Free Family Funday has a different art project based on the artists of the current exhibition, their subject matter, and their methods. Volunteers will assist Museum staff with set up and break down, explaining and helping children and families with art projects, and keeping a clean space. Volunteers are expected to stay during the entire duration of the event. Volunteers are needed to stay the entire duration of their shift, please only sign up if you can commit to the full 5.5 hours. Please feel free to bring water and snacks. We will be working outside of the museum either by the lake in the shade or on the front patio. Dress Code: Comfortable walking shoes, long pants, and a full shirt (no crop or tank tops) with no inappropriate subject matter. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 05/07/2026 through This opportunity is Full There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 900 E Princeton St. Orlando , FL 32803 Location Description: Get Directions Coordinat",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
       "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
       "status": "available",
       "tags": [
-        "youth"
+        "community"
       ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
+      "last_seen_at": "2026-06-03T06:58:33.449776+00:00"
     },
     {
-      "id": "orlando-cares-3409",
-      "source_id": "3409",
-      "title": "Youth Basketball, Cheer, and Dance Coach 2026 - Warriors",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3409",
-      "description": "",
-      "date": "",
-      "location": "",
+      "id": "orlando-cares-3506",
+      "source_id": "3506",
+      "title": "Internship: Media Relation",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3506",
+      "description": "Internship: Media Relation City of Orlando 0 similar opportunities Similar Opportunities Description City of Orlando Media Relations Volunteer Program Program Overview The Media Relations Volunteer Program provides hands on experience in public sector communications, media engagement, and strategic messaging. Interns support the City's Press office team in promoting initiatives, responding to media inquiries, and increasing public awareness of key programs and services. Program Objectives · Gain real world experience in government communications and media relations · Develop strong writing, editing, and messaging skills · Learn crisis communications and rapid response strategies · Build understanding of local government operations · Strengthen professional skills in a fast-paced environment Key Responsibilities · Draft press releases, media advisories, and talking points · Assist with media inquiries and track coverage · Monitor local and regional news · Support press conferences, media events, and announcements · Create social media content aligned with city messaging · Conduct research for speeches, statements, and briefings · Maintain media lists and distribution systems Learning Opportunities · Observe media briefings and leadership interviews · Participate in communications strategy meetings · Gain exposure to crisis communications planning · Learn public records and transparency practices · Understand coordination across departments and elected officials Volunteer Struc",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
       "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
       "status": "available",
       "tags": [
-        "youth"
+        "community"
       ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
+      "last_seen_at": "2026-06-03T06:58:37.612249+00:00"
     },
     {
-      "id": "orlando-cares-3411",
-      "source_id": "3411",
-      "title": "Youth Basketball, Cheer, and Dance Coach 2026 - Rosemont Neighborhood Center",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3411",
-      "description": "",
-      "date": "",
-      "location": "",
+      "id": "orlando-cares-3497",
+      "source_id": "3497",
+      "title": "Orlando CommUNITY Rainbow Run 2026",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3497",
+      "description": "Orlando CommUNITY Rainbow Run 2026 City of Orlando Office of Communications and Neighborhood Relations 0 similar opportunities Similar Opportunities Description Mission : Join us for the 10th annual CommUNITY Rainbow Run presented by Orlando Health on Saturday, June 6, 2026 at Orlando City Hall. More than just a race, this is a celebration of our community's resilience and love. Position : Event Volunteer Duties: Volunteers are crucial in maintaining smooth operations. Event Volunteers are needed the day before the event and the day of the event to assist with parking, registration, water stations, and more. Time commitment: There are multiple shifts available. Location : Orlando City Hall Plaza Qualifications and Skills : No qualifications are needed. Hardworking, flexible, and good at listening are useful skills. Any familiarity with event management is valuable. You must be at least 15 years old. Apply/Contact: To apply, click the sign-up button below. If you are new to Orlando Cares, you'll be asked to make an Orlando Cares account to sign up for this opportunity. For more information about this opportunity, please contact Chandra Griffin at 407.246.2118 or chandra.griffin@orlando.gov Additional info: Minimum age: 15 Availability Schedule Shifts Opportunity available: 04/14/2026 through Unlimited Openings There are no available shifts for this opportunity. 1 Schedule Shift available! 1 Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Cale",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
       "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
       "status": "available",
       "tags": [
-        "youth"
+        "community"
       ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
+      "last_seen_at": "2026-06-03T06:58:43.358622+00:00"
     },
     {
-      "id": "orlando-cares-3413",
-      "source_id": "3413",
-      "title": "Youth Basketball, Cheer, and Dance Coach 2026 - Langford Neighborhood Center",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3413",
-      "description": "",
-      "date": "",
-      "location": "",
+      "id": "orlando-cares-2889",
+      "source_id": "2889",
+      "title": "CERT Volunteers - Community Emergency Response Team",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/2889",
+      "description": "CERT Volunteers - Community Emergency Response Team Orlando Fire Department 0 similar opportunities Similar Opportunities Description Position: The Community Emergency Response Team (CERT) program educates volunteers about disaster preparedness for the hazards that may occur where they live. CERT trains volunteers in basic disaster response skills, such as: Fire safety Light search and rescue Team organization Disaster medical operations The CERT program offers a consistent, nationwide approach to volunteer training and organization that professional responders can rely on during disaster situations, allowing them to focus on more complex tasks. Qualifications: Volunteers must complete a mandatory CERT Basic Training either online or in-person in order to be CERT certified. Volunteers will also need to complete and pass a background screening prior to beginning their service. Responsibilities: Once CERT trained, volunteers will have the opportunity to participate in community events focused on safety and disaster preparedness. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 06/29/2023 through 221 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur Orlando , FL Location Description: Once CERT Certified, volunteers will join a CERT Team in their District. Coordina",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
       "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
       "status": "available",
       "tags": [
-        "youth"
+        "community"
       ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3412",
-      "source_id": "3412",
-      "title": "Youth Basketball, Cheer, and Dance Coach 2026 - Grand Avenue Neighborhood Center",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3412",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3407",
-      "source_id": "3407",
-      "title": "Youth Basketball, Cheer and Dance Coach 2026- Rock Lake Neighborhood Center",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3407",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3405",
-      "source_id": "3405",
-      "title": "Youth Basketball, Cheer and Dance Coach 2026 - Smith Neighborhood Center",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3405",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3417",
-      "source_id": "3417",
-      "title": "Youth Basketball, Cheer and Dance Coach 2026 - Scholar's Prep",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3417",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3408",
-      "source_id": "3408",
-      "title": "Youth Basketball, Cheer and Dance Coach 2026 - Northwest Neighborhood Center",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3408",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3416",
-      "source_id": "3416",
-      "title": "Youth Basketball, Cheer and Dance Coach 2026 - Ivey Lane",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3416",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3415",
-      "source_id": "3415",
-      "title": "Youth Basketball, Cheer and Dance Coach 2026 - Grassroot",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3415",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3401",
-      "source_id": "3401",
-      "title": "Youth Basketball, Cheer and Dance Coach 2026 - CFLA Eagles",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3401",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3418",
-      "source_id": "3418",
-      "title": "Youth Basketball, Cheer and Dance Coach 2026 - Bridge to Independence",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3418",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3395",
-      "source_id": "3395",
-      "title": "Volunteer Open House for Harry P. Leu Gardens - January 2026",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3395",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "historical",
-      "tags": [
-        "parks"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3388",
-      "source_id": "3388",
-      "title": "La Costa Urban Wetland Cleanup",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3388",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "parks"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3376",
-      "source_id": "3376",
-      "title": "Book Buddy 2025-2026 (Rock Lake Neighborhood Center)",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3376",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth",
-        "education"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3374",
-      "source_id": "3374",
-      "title": "Book Buddy 2025-2026 (Smith Neighborhood Center)",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3374",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth",
-        "education"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3373",
-      "source_id": "3373",
-      "title": "Book Buddy 2025-2026 (Rosemont Neighborhood Center)",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3373",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth",
-        "education"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3372",
-      "source_id": "3372",
-      "title": "Book Buddy 2025-2026 (Northwest Neighborhood Center)",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3372",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth",
-        "education"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3370",
-      "source_id": "3370",
-      "title": "Book Buddy 2025-2026 (John H. Jackson Neighborhood Center)",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3370",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth",
-        "education"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
-    },
-    {
-      "id": "orlando-cares-3368",
-      "source_id": "3368",
-      "title": "Book Buddy 2025-2026 (Ivey Lane Neighborhood Center)",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3368",
-      "description": "",
-      "date": "",
-      "location": "",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "youth",
-        "education"
-      ],
-      "last_seen_at": "2025-11-18T14:10:33.760941"
+      "last_seen_at": "2026-06-03T06:58:47.658225+00:00"
     }
   ]
 }
