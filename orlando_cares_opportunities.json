@@ -1,10 +1,26 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-06-03T06:58:47.658245+00:00",
+  "scraped_at": "2026-06-05T06:47:22.401578+00:00",
   "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-  "total_opportunities": 16,
+  "total_opportunities": 15,
   "opportunities": [
+    {
+      "id": "orlando-cares-3522",
+      "source_id": "3522",
+      "title": "Juneteenth Resource Fair",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3522",
+      "description": "Juneteenth Resource Fair City of Orlando - Community Affairs 0 similar opportunities Similar Opportunities Description Grand Avenue Neighborhood Center 10AM- 3PM The City of Orlando invites enthusiastic individuals to volunteer for the Juneteenth Resource Fair held on Saturday, June 20, 2026, to help build healthier and more resilient communities. This impactful event provides a welcoming environment where residents can connect with vital resources and gain knowledge for personal prosperity. For full event details, visit: orlando.gov/Events/Juneteenth-Community-Resource-Fair Volunteers are essential for maintaining smooth operations and ensuring a positive experience for every attendee. Lunch will be provided for all volunteers as a token of our appreciation. We have identified four primary roles to support this event: Registration : Assisting with the check-in process and welcoming community members as they enter the facility. Educational Room Support : Support presenters with getting set up for presentations and assisting participants during the presentations. General Event Support : Helping with event setup, clean-up, and the distribution of giveaways or other materials. Requirements and Benefits: To ensure a professional and safe environment, we ask all volunteers to adhere to specific guidelines and attire. Dress Code : Volunteers are asked to wear jeans with no rips and sneakers for ease of movement and safety during the event. Volunteer T-Shirts : To show our appreciat",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Additional info:",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "community"
+      ],
+      "last_seen_at": "2026-06-05T06:46:35.946809+00:00"
+    },
     {
       "id": "orlando-cares-3512",
       "source_id": "3512",
@@ -20,7 +36,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:57:42.238923+00:00"
+      "last_seen_at": "2026-06-05T06:46:39.146181+00:00"
     },
     {
       "id": "orlando-cares-3499",
@@ -37,7 +53,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:57:46.457902+00:00"
+      "last_seen_at": "2026-06-05T06:46:42.333767+00:00"
     },
     {
       "id": "orlando-cares-3513",
@@ -54,7 +70,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:57:50.935651+00:00"
+      "last_seen_at": "2026-06-05T06:46:46.408580+00:00"
     },
     {
       "id": "orlando-cares-3514",
@@ -71,7 +87,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:57:55.188645+00:00"
+      "last_seen_at": "2026-06-05T06:46:49.505461+00:00"
     },
     {
       "id": "orlando-cares-3515",
@@ -88,7 +104,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:57:59.380552+00:00"
+      "last_seen_at": "2026-06-05T06:46:52.613832+00:00"
     },
     {
       "id": "orlando-cares-3517",
@@ -105,7 +121,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:03.829361+00:00"
+      "last_seen_at": "2026-06-05T06:46:55.913250+00:00"
     },
     {
       "id": "orlando-cares-3516",
@@ -122,7 +138,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:08.017878+00:00"
+      "last_seen_at": "2026-06-05T06:46:59.231897+00:00"
     },
     {
       "id": "orlando-cares-3518",
@@ -139,7 +155,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:12.190878+00:00"
+      "last_seen_at": "2026-06-05T06:47:02.634683+00:00"
     },
     {
       "id": "orlando-cares-3519",
@@ -156,14 +172,14 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:16.311476+00:00"
+      "last_seen_at": "2026-06-05T06:47:06.063097+00:00"
     },
     {
       "id": "orlando-cares-3283",
       "source_id": "3283",
       "title": "Volunteer: Orlando Wetlands Visitor Center",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3283",
-      "description": "Volunteer: Orlando Wetlands Visitor Center Orlando Wetlands 0 similar opportunities Similar Opportunities Description Join our community of friendly & dedicated volunteers, the Friends of the Orlando Wetlands, to support the mission and operations of the Orlando Wetlands. Become an Orlando Wetlands ambassador today! BEFORE SIGNING UP: Attending an orientation session is required. 2026 options: Sat, May 30th Sat, July 25th Sat, September 19th Sat, November 14th 8:30 AM - 11:30 AM. Times/dates subject to change. LIMITED SPOTS, RSVP REQUIRED. Activities include: Front Desk: Tues - Sat General operation of the Visitor Center, including opening/closing procedures, greet visitors, provide info, phone reception, restock, light cleaning/organization, process transactions, operate basic tech, & other duties as needed/assigned. Docent: Tues - Sat Greet visitors, interpret displays, live animals & models, lead hands-on interactive activities, run the Education Cart, operate basic tech, interact with all ages, stand/sit for long periods of time, & other duties as needed/assigned. Time Commitment: Volunteers participate on an ongoing & recurring basis such as weekly or monthly. Shifts ~ 4 hours in length; 8:30 AM - 12:30 PM (morning) or 12:15 PM - 4:30 PM (afternoon). Setting: Most work is indoors/directly with people, but will occasionally be in a wetlands environment, potentially exposed to weather/wildlife. Work will involve interacting with the public, providing info, standing/sitting",
+      "description": "Volunteer: Orlando Wetlands Visitor Center Orlando Wetlands 0 similar opportunities Similar Opportunities Description Join our community of friendly & dedicated volunteers, the Friends of the Orlando Wetlands, to support the mission and operations of the Orlando Wetlands. Become an Orlando Wetlands ambassador today! BEFORE SIGNING UP: Attending an orientation session is required. Upcoming 2026 options: Sat, July 25th Sat, September 19th Sat, November 14th 8:30 AM - 11:30 AM. Times/dates subject to change. LIMITED SPOTS, RSVP REQUIRED. Activities include: Front Desk: Tues - Sat General operation of the Visitor Center, including opening/closing procedures, greet visitors, provide info, phone reception, restock, light cleaning/organization, process transactions, operate basic tech, & other duties as needed/assigned. Docent: Tues - Sat Greet visitors, interpret displays, live animals & models, lead hands-on interactive activities, run the Education Cart, operate basic tech, interact with all ages, stand/sit for long periods of time, & other duties as needed/assigned. Time Commitment: Volunteers participate on an ongoing & recurring basis such as weekly or monthly. Shifts ~ 4 hours in length; 8:30 AM - 12:30 PM (morning) or 12:15 PM - 4:30 PM (afternoon). Setting: Most work is indoors/directly with people, but will occasionally be in a wetlands environment, potentially exposed to weather/wildlife. Work will involve interacting with the public, providing info, standing/sitting, etc",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
@@ -173,7 +189,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:20.607119+00:00"
+      "last_seen_at": "2026-06-05T06:47:09.409594+00:00"
     },
     {
       "id": "orlando-cares-3304",
@@ -190,14 +206,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:24.928369+00:00"
+      "last_seen_at": "2026-06-05T06:47:12.754851+00:00"
     },
     {
       "id": "orlando-cares-3509",
       "source_id": "3509",
       "title": "Volunteer Open House for Harry P. Leu Gardens - July 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3509",
-      "description": "Volunteer Open House for Harry P. Leu Gardens - July 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: July 11th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 07/11/2026 through 28 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule ",
+      "description": "Volunteer Open House for Harry P. Leu Gardens - July 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: July 11th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 07/11/2026 through 27 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule ",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
@@ -208,7 +224,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:29.223873+00:00"
+      "last_seen_at": "2026-06-05T06:47:15.978123+00:00"
     },
     {
       "id": "orlando-cares-3508",
@@ -224,39 +240,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:33.449776+00:00"
-    },
-    {
-      "id": "orlando-cares-3506",
-      "source_id": "3506",
-      "title": "Internship: Media Relation",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3506",
-      "description": "Internship: Media Relation City of Orlando 0 similar opportunities Similar Opportunities Description City of Orlando Media Relations Volunteer Program Program Overview The Media Relations Volunteer Program provides hands on experience in public sector communications, media engagement, and strategic messaging. Interns support the City's Press office team in promoting initiatives, responding to media inquiries, and increasing public awareness of key programs and services. Program Objectives · Gain real world experience in government communications and media relations · Develop strong writing, editing, and messaging skills · Learn crisis communications and rapid response strategies · Build understanding of local government operations · Strengthen professional skills in a fast-paced environment Key Responsibilities · Draft press releases, media advisories, and talking points · Assist with media inquiries and track coverage · Monitor local and regional news · Support press conferences, media events, and announcements · Create social media content aligned with city messaging · Conduct research for speeches, statements, and briefings · Maintain media lists and distribution systems Learning Opportunities · Observe media briefings and leadership interviews · Participate in communications strategy meetings · Gain exposure to crisis communications planning · Learn public records and transparency practices · Understand coordination across departments and elected officials Volunteer Struc",
-      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
-      "location": "Where the opportunity will occur",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "community"
-      ],
-      "last_seen_at": "2026-06-03T06:58:37.612249+00:00"
-    },
-    {
-      "id": "orlando-cares-3497",
-      "source_id": "3497",
-      "title": "Orlando CommUNITY Rainbow Run 2026",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3497",
-      "description": "Orlando CommUNITY Rainbow Run 2026 City of Orlando Office of Communications and Neighborhood Relations 0 similar opportunities Similar Opportunities Description Mission : Join us for the 10th annual CommUNITY Rainbow Run presented by Orlando Health on Saturday, June 6, 2026 at Orlando City Hall. More than just a race, this is a celebration of our community's resilience and love. Position : Event Volunteer Duties: Volunteers are crucial in maintaining smooth operations. Event Volunteers are needed the day before the event and the day of the event to assist with parking, registration, water stations, and more. Time commitment: There are multiple shifts available. Location : Orlando City Hall Plaza Qualifications and Skills : No qualifications are needed. Hardworking, flexible, and good at listening are useful skills. Any familiarity with event management is valuable. You must be at least 15 years old. Apply/Contact: To apply, click the sign-up button below. If you are new to Orlando Cares, you'll be asked to make an Orlando Cares account to sign up for this opportunity. For more information about this opportunity, please contact Chandra Griffin at 407.246.2118 or chandra.griffin@orlando.gov Additional info: Minimum age: 15 Availability Schedule Shifts Opportunity available: 04/14/2026 through Unlimited Openings There are no available shifts for this opportunity. 1 Schedule Shift available! 1 Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Cale",
-      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
-      "location": "Additional info:",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "community"
-      ],
-      "last_seen_at": "2026-06-03T06:58:43.358622+00:00"
+      "last_seen_at": "2026-06-05T06:47:19.289768+00:00"
     },
     {
       "id": "orlando-cares-2889",
@@ -272,7 +256,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-06-03T06:58:47.658225+00:00"
+      "last_seen_at": "2026-06-05T06:47:22.401563+00:00"
     }
   ]
 }
