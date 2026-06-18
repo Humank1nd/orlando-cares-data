@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-06-17T07:01:47.898125+00:00",
+  "scraped_at": "2026-06-18T07:18:16.151386+00:00",
   "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-  "total_opportunities": 18,
+  "total_opportunities": 17,
   "opportunities": [
     {
       "id": "orlando-cares-3530",
@@ -20,23 +20,24 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:00:29.046764+00:00"
+      "last_seen_at": "2026-06-18T07:17:13.944633+00:00"
     },
     {
       "id": "orlando-cares-3525",
       "source_id": "3525",
       "title": "Weed n' Mulch at South Street Urban Farm 06/24/2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3525",
-      "description": "Orlando Cares Youtube Twitter Facebook Linkedin © 2019 City of Orlando Contact Us 407.246.3507 407.246.3508 orlandocares@orlando.gov",
-      "date": "Orlando Cares",
-      "location": "",
+      "description": "Weed n' Mulch at South Street Urban Farm 06/24/2026 Office of Sustainability, Resilience and Future Ready 0 similar opportunities Similar Opportunities Description Date: Wednesday, June 24, 2026 Location: 626 W South St. Orlando, FL 32805 Time: 8:00 am - 10:00 am Parking: Parking will be available on the street next to the garden and in the grass lot across the street, located at 617 W South Street Orlando, FL 32805. Weekly summer maintenance at South Street Urban Farm, including weeding, mulching, planting, and garden management. Please bring water, sunscreen and closed toe shoes! Bathrooms are not available on-site, so please plan accordingly. --------------------------------------------- The Office of Sustainability, Resilience and Future Ready is thrilled to offer Volunteer Workdays at South Street Urban Farm! South Street Urban Farm is a hybrid educational urban farm and community-supported garden, which seeks to meet the need for secure, fresh, and culturally relevant food, and provides opportunities for learning about regenerative gardening. *Please note that unfortunately, the coordinator of this activity is unable to sign off on court-mandated community service hours. Additional info: Minimum age: 18 Location Where the opportunity will occur 626 W South Street Orlando , FL 32805 Location Description: Get Directions Coordinates: 28.538018,-81.38773 Contact Info Contact person for the opportunity Contact 1 Contact Name: Vern Renzette Primary Phone: (561) 279-5692 Conta",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
       "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
       "status": "available",
       "tags": [
-        "education"
+        "parks",
+        "community"
       ],
-      "last_seen_at": "2026-06-17T07:00:32.054908+00:00"
+      "last_seen_at": "2026-06-18T07:17:17.643777+00:00"
     },
     {
       "id": "orlando-cares-3529",
@@ -53,7 +54,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:00:36.120085+00:00"
+      "last_seen_at": "2026-06-18T07:17:21.068062+00:00"
     },
     {
       "id": "orlando-cares-3524",
@@ -69,7 +70,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:00:42.996782+00:00"
+      "last_seen_at": "2026-06-18T07:17:26.185806+00:00"
     },
     {
       "id": "orlando-cares-3523",
@@ -86,23 +87,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:00:48.485517+00:00"
-    },
-    {
-      "id": "orlando-cares-3522",
-      "source_id": "3522",
-      "title": "Juneteenth Resource Fair",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3522",
-      "description": "Juneteenth Resource Fair City of Orlando - Community Affairs 0 similar opportunities Similar Opportunities Description Grand Avenue Neighborhood Center 10AM- 3PM The City of Orlando invites enthusiastic individuals to volunteer for the Juneteenth Resource Fair held on Saturday, June 20, 2026, to help build healthier and more resilient communities. This impactful event provides a welcoming environment where residents can connect with vital resources and gain knowledge for personal prosperity. For full event details, visit: orlando.gov/Events/Juneteenth-Community-Resource-Fair Volunteers are essential for maintaining smooth operations and ensuring a positive experience for every attendee. Lunch will be provided for all volunteers as a token of our appreciation. We have identified four primary roles to support this event: Registration : Assisting with the check-in process and welcoming community members as they enter the facility. Educational Room Support : Support presenters with getting set up for presentations and assisting participants during the presentations. General Event Support : Helping with event setup, clean-up, and the distribution of giveaways or other materials. Requirements and Benefits: To ensure a professional and safe environment, we ask all volunteers to adhere to specific guidelines and attire. Dress Code : Volunteers are asked to wear jeans with no rips and sneakers for ease of movement and safety during the event. Volunteer T-Shirts : To show our appreciat",
-      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
-      "location": "Additional info:",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "community"
-      ],
-      "last_seen_at": "2026-06-17T07:00:55.643366+00:00"
+      "last_seen_at": "2026-06-18T07:17:31.093403+00:00"
     },
     {
       "id": "orlando-cares-3512",
@@ -119,7 +104,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:00:59.557976+00:00"
+      "last_seen_at": "2026-06-18T07:17:34.753487+00:00"
     },
     {
       "id": "orlando-cares-3499",
@@ -136,7 +121,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:03.500544+00:00"
+      "last_seen_at": "2026-06-18T07:17:38.326611+00:00"
     },
     {
       "id": "orlando-cares-3514",
@@ -153,7 +138,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:07.877096+00:00"
+      "last_seen_at": "2026-06-18T07:17:42.004623+00:00"
     },
     {
       "id": "orlando-cares-3515",
@@ -170,7 +155,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:11.653162+00:00"
+      "last_seen_at": "2026-06-18T07:17:45.531479+00:00"
     },
     {
       "id": "orlando-cares-3517",
@@ -187,7 +172,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:15.208842+00:00"
+      "last_seen_at": "2026-06-18T07:17:49.381068+00:00"
     },
     {
       "id": "orlando-cares-3516",
@@ -204,7 +189,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:25.329512+00:00"
+      "last_seen_at": "2026-06-18T07:17:52.885057+00:00"
     },
     {
       "id": "orlando-cares-3518",
@@ -221,7 +206,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:29.623350+00:00"
+      "last_seen_at": "2026-06-18T07:17:56.249193+00:00"
     },
     {
       "id": "orlando-cares-3519",
@@ -238,7 +223,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:33.155243+00:00"
+      "last_seen_at": "2026-06-18T07:17:59.869166+00:00"
     },
     {
       "id": "orlando-cares-3283",
@@ -255,7 +240,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:36.837958+00:00"
+      "last_seen_at": "2026-06-18T07:18:04.481829+00:00"
     },
     {
       "id": "orlando-cares-3304",
@@ -272,7 +257,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:40.744762+00:00"
+      "last_seen_at": "2026-06-18T07:18:08.520029+00:00"
     },
     {
       "id": "orlando-cares-3509",
@@ -290,7 +275,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:44.421567+00:00"
+      "last_seen_at": "2026-06-18T07:18:12.263180+00:00"
     },
     {
       "id": "orlando-cares-2889",
@@ -306,7 +291,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-06-17T07:01:47.898111+00:00"
+      "last_seen_at": "2026-06-18T07:18:16.151366+00:00"
     }
   ]
 }
