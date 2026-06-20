@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-06-19T07:00:55.166669+00:00",
+  "scraped_at": "2026-06-20T06:46:08.355503+00:00",
   "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
   "total_opportunities": 17,
@@ -20,7 +20,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-19T06:59:41.495529+00:00"
+      "last_seen_at": "2026-06-20T06:44:55.142604+00:00"
     },
     {
       "id": "orlando-cares-3530",
@@ -37,7 +37,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-19T06:59:46.566359+00:00"
+      "last_seen_at": "2026-06-20T06:44:59.264915+00:00"
     },
     {
       "id": "orlando-cares-3529",
@@ -54,7 +54,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-19T06:59:50.559422+00:00"
+      "last_seen_at": "2026-06-20T06:45:03.381448+00:00"
     },
     {
       "id": "orlando-cares-3524",
@@ -70,7 +70,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-06-19T06:59:57.715887+00:00"
+      "last_seen_at": "2026-06-20T06:45:12.599455+00:00"
     },
     {
       "id": "orlando-cares-3523",
@@ -87,7 +87,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:05.629942+00:00"
+      "last_seen_at": "2026-06-20T06:45:18.005653+00:00"
     },
     {
       "id": "orlando-cares-3512",
@@ -104,7 +104,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:10.631432+00:00"
+      "last_seen_at": "2026-06-20T06:45:22.097016+00:00"
     },
     {
       "id": "orlando-cares-3499",
@@ -121,7 +121,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:14.550395+00:00"
+      "last_seen_at": "2026-06-20T06:45:26.072328+00:00"
     },
     {
       "id": "orlando-cares-3514",
@@ -138,7 +138,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:18.033181+00:00"
+      "last_seen_at": "2026-06-20T06:45:30.467313+00:00"
     },
     {
       "id": "orlando-cares-3515",
@@ -155,7 +155,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:22.377395+00:00"
+      "last_seen_at": "2026-06-20T06:45:35.014992+00:00"
     },
     {
       "id": "orlando-cares-3517",
@@ -172,7 +172,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:26.380645+00:00"
+      "last_seen_at": "2026-06-20T06:45:39.428453+00:00"
     },
     {
       "id": "orlando-cares-3516",
@@ -189,7 +189,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:30.337378+00:00"
+      "last_seen_at": "2026-06-20T06:45:43.594804+00:00"
     },
     {
       "id": "orlando-cares-3518",
@@ -206,7 +206,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:34.425175+00:00"
+      "last_seen_at": "2026-06-20T06:45:47.777597+00:00"
     },
     {
       "id": "orlando-cares-3519",
@@ -223,7 +223,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:38.395847+00:00"
+      "last_seen_at": "2026-06-20T06:45:51.783960+00:00"
     },
     {
       "id": "orlando-cares-3283",
@@ -240,7 +240,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:42.551297+00:00"
+      "last_seen_at": "2026-06-20T06:45:55.969641+00:00"
     },
     {
       "id": "orlando-cares-3304",
@@ -257,7 +257,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:47.239967+00:00"
+      "last_seen_at": "2026-06-20T06:46:00.055514+00:00"
     },
     {
       "id": "orlando-cares-3509",
@@ -275,7 +275,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:50.998982+00:00"
+      "last_seen_at": "2026-06-20T06:46:04.139825+00:00"
     },
     {
       "id": "orlando-cares-2889",
@@ -291,7 +291,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-06-19T07:00:55.166654+00:00"
+      "last_seen_at": "2026-06-20T06:46:08.355485+00:00"
     }
   ]
 }
