@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-07-15T07:25:42.372151+00:00",
+  "scraped_at": "2026-07-18T07:12:13.298412+00:00",
   "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-  "total_opportunities": 19,
+  "total_opportunities": 20,
   "opportunities": [
     {
       "id": "orlando-cares-3538",
@@ -21,14 +21,14 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:24:29.086900+00:00"
+      "last_seen_at": "2026-07-18T07:11:02.966178+00:00"
     },
     {
       "id": "orlando-cares-3536",
       "source_id": "3536",
       "title": "Weed n' Mulch at South Street Urban Farm - Various Dates",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3536",
-      "description": "Weed n' Mulch at South Street Urban Farm - Various Dates Office of Sustainability, Resilience and Future Ready 0 similar opportunities Similar Opportunities Description Location: 626 W South St. Orlando, FL 32805 Time: 8:00 am - 10:00 am Parking: Parking will be available on the street next to the garden and in the grass lot across the street, located at 617 W South Street Orlando, FL 32805. Weekly summer maintenance at South Street Urban Farm, including weeding, mulching, planting, and garden management. Please bring water, sunscreen and closed toe shoes! Bathrooms are not available on-site, so please plan accordingly. --------------------------------------------- The Office of Sustainability, Resilience and Future Ready is thrilled to offer Volunteer Workdays at South Street Urban Farm! South Street Urban Farm is a hybrid educational urban farm and community-supported garden, which seeks to meet the need for secure, fresh, and culturally relevant food, and provides opportunities for learning about regenerative gardening. *Please note that unfortunately, the coordinator of this activity is unable to sign off on court-mandated community service hours. Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 07/01/2026 through Only 4 Positions available! There are no available shifts for this opportunity. 2 Schedule Shift available! 2 Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Filter Schedule Slots St",
+      "description": "Weed n' Mulch at South Street Urban Farm - Various Dates Office of Sustainability, Resilience and Future Ready 0 similar opportunities Similar Opportunities Description Location: 626 W South St. Orlando, FL 32805 Time: 8:00 am - 10:00 am Parking: Parking will be available on the street next to the garden and in the grass lot across the street, located at 617 W South Street Orlando, FL 32805. Weekly summer maintenance at South Street Urban Farm, including weeding, mulching, planting, and garden management. Please bring water, sunscreen and closed toe shoes! Bathrooms are not available on-site, so please plan accordingly. --------------------------------------------- The Office of Sustainability, Resilience and Future Ready is thrilled to offer Volunteer Workdays at South Street Urban Farm! South Street Urban Farm is a hybrid educational urban farm and community-supported garden, which seeks to meet the need for secure, fresh, and culturally relevant food, and provides opportunities for learning about regenerative gardening. *Please note that unfortunately, the coordinator of this activity is unable to sign off on court-mandated community service hours. Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 07/01/2026 through Only 4 Positions available! There are no available shifts for this opportunity. 1 Schedule Shift available! 1 Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Filter Schedule Slots St",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -38,7 +38,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:24:34.437683+00:00"
+      "last_seen_at": "2026-07-18T07:11:08.076189+00:00"
     },
     {
       "id": "orlando-cares-2902",
@@ -55,7 +55,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:24:38.278382+00:00"
+      "last_seen_at": "2026-07-18T07:11:11.877602+00:00"
     },
     {
       "id": "orlando-cares-3531",
@@ -72,7 +72,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:24:42.220291+00:00"
+      "last_seen_at": "2026-07-18T07:11:15.262910+00:00"
     },
     {
       "id": "orlando-cares-3529",
@@ -89,7 +89,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:24:46.081504+00:00"
+      "last_seen_at": "2026-07-18T07:11:18.839227+00:00"
     },
     {
       "id": "orlando-cares-3523",
@@ -106,7 +106,23 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:24:50.969260+00:00"
+      "last_seen_at": "2026-07-18T07:11:23.286867+00:00"
+    },
+    {
+      "id": "orlando-cares-3527",
+      "source_id": "3527",
+      "title": "Free Family Funday - AUGUST 2026",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3527",
+      "description": "Free Family Funday - AUGUST 2026 The Mennello Museum of American Art 0 similar opportunities Similar Opportunities Description Volunteers needed on August 9th, 2026 from 11:00am to 4:30pm. On the 2nd Sunday of every month, the Mennello Museum of American Art has free admission all day, plus a fine art project! Each Free Family Funday has a different art project based on the artists of the current exhibition, their subject matter, and their methods. Volunteers will assist Museum staff with set up and break down, explaining and helping children and families with art projects, and keeping a clean space. Volunteers are expected to stay during the entire duration of the event. Volunteers are needed to stay the entire duration of their shift, please only sign up if you can commit to the full 5.5 hours. Please feel free to bring water and snacks. We will be working outside of the museum either by the lake in the shade or on the front patio. Dress Code: Comfortable walking shoes, long pants, and a full shirt (no crop or tank tops) with no inappropriate subject matter. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: through 8 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 900 E Princeton St. Orlando , FL 32803 Location Description: Get Directions Coordinates: 28.570",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Where the opportunity will occur",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "community"
+      ],
+      "last_seen_at": "2026-07-18T07:11:27.068303+00:00"
     },
     {
       "id": "orlando-cares-3512",
@@ -123,7 +139,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:24:54.757605+00:00"
+      "last_seen_at": "2026-07-18T07:11:30.424079+00:00"
     },
     {
       "id": "orlando-cares-3499",
@@ -140,7 +156,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:24:58.654208+00:00"
+      "last_seen_at": "2026-07-18T07:11:33.792355+00:00"
     },
     {
       "id": "orlando-cares-3514",
@@ -157,7 +173,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:02.793516+00:00"
+      "last_seen_at": "2026-07-18T07:11:37.135822+00:00"
     },
     {
       "id": "orlando-cares-3515",
@@ -174,7 +190,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:06.679794+00:00"
+      "last_seen_at": "2026-07-18T07:11:40.557392+00:00"
     },
     {
       "id": "orlando-cares-3517",
@@ -191,7 +207,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:10.364707+00:00"
+      "last_seen_at": "2026-07-18T07:11:44.161984+00:00"
     },
     {
       "id": "orlando-cares-3516",
@@ -208,7 +224,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:14.078681+00:00"
+      "last_seen_at": "2026-07-18T07:11:47.644466+00:00"
     },
     {
       "id": "orlando-cares-3518",
@@ -225,7 +241,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:17.979700+00:00"
+      "last_seen_at": "2026-07-18T07:11:51.066085+00:00"
     },
     {
       "id": "orlando-cares-3519",
@@ -242,7 +258,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:21.749020+00:00"
+      "last_seen_at": "2026-07-18T07:11:54.486791+00:00"
     },
     {
       "id": "orlando-cares-3283",
@@ -259,7 +275,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:25.891814+00:00"
+      "last_seen_at": "2026-07-18T07:11:58.123086+00:00"
     },
     {
       "id": "orlando-cares-3304",
@@ -276,7 +292,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:29.675428+00:00"
+      "last_seen_at": "2026-07-18T07:12:01.743949+00:00"
     },
     {
       "id": "orlando-cares-3509",
@@ -294,7 +310,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:33.484054+00:00"
+      "last_seen_at": "2026-07-18T07:12:05.577134+00:00"
     },
     {
       "id": "orlando-cares-3130",
@@ -311,14 +327,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:38.594408+00:00"
+      "last_seen_at": "2026-07-18T07:12:09.919448+00:00"
     },
     {
       "id": "orlando-cares-2889",
       "source_id": "2889",
       "title": "CERT Volunteers - Community Emergency Response Team",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/2889",
-      "description": "CERT Volunteers - Community Emergency Response Team Orlando Fire Department 0 similar opportunities Similar Opportunities Description Position: The Community Emergency Response Team (CERT) program educates volunteers about disaster preparedness for the hazards that may occur where they live. CERT trains volunteers in basic disaster response skills, such as: Fire safety Light search and rescue Team organization Disaster medical operations The CERT program offers a consistent, nationwide approach to volunteer training and organization that professional responders can rely on during disaster situations, allowing them to focus on more complex tasks. Qualifications: Volunteers must complete a mandatory CERT Basic Training either online or in-person in order to be CERT certified. Volunteers will also need to complete and pass a background screening prior to beginning their service. Responsibilities: Once CERT trained, volunteers will have the opportunity to participate in community events focused on safety and disaster preparedness. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 06/29/2023 through 192 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur Orlando , FL Location Description: Once CERT Certified, volunteers will join a CERT Team in their District. Coordina",
+      "description": "CERT Volunteers - Community Emergency Response Team Orlando Fire Department 0 similar opportunities Similar Opportunities Description Position: The Community Emergency Response Team (CERT) program educates volunteers about disaster preparedness for the hazards that may occur where they live. CERT trains volunteers in basic disaster response skills, such as: Fire safety Light search and rescue Team organization Disaster medical operations The CERT program offers a consistent, nationwide approach to volunteer training and organization that professional responders can rely on during disaster situations, allowing them to focus on more complex tasks. Qualifications: Volunteers must complete a mandatory CERT Basic Training either online or in-person in order to be CERT certified. Volunteers will also need to complete and pass a background screening prior to beginning their service. Responsibilities: Once CERT trained, volunteers will have the opportunity to participate in community events focused on safety and disaster preparedness. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 06/29/2023 through 191 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur Orlando , FL Location Description: Once CERT Certified, volunteers will join a CERT Team in their District. Coordina",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -327,7 +343,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-07-15T07:25:42.372131+00:00"
+      "last_seen_at": "2026-07-18T07:12:13.298398+00:00"
     }
   ]
 }
