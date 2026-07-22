@@ -1,10 +1,28 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-07-19T07:37:54.253667+00:00",
+  "scraped_at": "2026-07-22T07:44:47.360385+00:00",
   "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
   "total_opportunities": 20,
   "opportunities": [
+    {
+      "id": "orlando-cares-3548",
+      "source_id": "3548",
+      "title": "Book Buddy 2026-2027 (Wadeview Neighborhood Center)",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3548",
+      "description": "Book Buddy 2026-2027 (Wadeview Neighborhood Center) Office of Community Affairs 0 similar opportunities Similar Opportunities Description Mission: By encouraging leisure time reading and creative expression, Mayor Buddy's Book Club improves literacy in our community by making reading fun! Position: Book Buddy Duties: Volunteers will assist weekly book club sessions with students including -Creating book related activities -Facilitating discussion about the current book Time Commitment: Weekly on Mondays from 4:00pm to 5:30pm Location/Setting: City of Orlando - Wadeview Neighborhood Center Screening: A background check is required for this position. Apply/Contact: To apply, click the sign-up button below. If you are new to Orlando Cares, you'll be asked to make an Orlando Cares account in order to sign-up for this opportunity. For more information about this opportunity, please contact Orlando Cares at 407.246.3507 or orlandocares@orlando.gov Additional info: Availability Schedule Shifts Opportunity available: 07/20/2026 through Only 1 Position available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 2177 Summerlin Ave Orlando , FL 32806 Location Description: Wadeview Neighborhood Center Coordinates: 28.517719,-81.369157 Contact Info Contact person for the opportunity Contact 1 Contact Name: Colin Worley Email: co",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Additional info:",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "education",
+        "community"
+      ],
+      "last_seen_at": "2026-07-22T07:43:29.096245+00:00"
+    },
     {
       "id": "orlando-cares-3538",
       "source_id": "3538",
@@ -21,7 +39,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:36:42.318891+00:00"
+      "last_seen_at": "2026-07-22T07:43:33.333283+00:00"
     },
     {
       "id": "orlando-cares-3536",
@@ -38,7 +56,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:36:47.159435+00:00"
+      "last_seen_at": "2026-07-22T07:43:38.579318+00:00"
     },
     {
       "id": "orlando-cares-2902",
@@ -55,7 +73,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:36:50.576381+00:00"
+      "last_seen_at": "2026-07-22T07:43:42.422917+00:00"
     },
     {
       "id": "orlando-cares-3531",
@@ -72,24 +90,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:36:54.153795+00:00"
-    },
-    {
-      "id": "orlando-cares-3529",
-      "source_id": "3529",
-      "title": "Plastic Free July Cleanup",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3529",
-      "description": "Plastic Free July Cleanup Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for a community cleanup! All month long we are celebrating Plastic Free July. This means we are ditching the single-use plastics and choosing reusables! This cleanup we will be focusing on removing these single-use plastics like water bottles, utensils, and straws from our beautiful wild spaces. Eagle Nest Park Saturday, July 18 8:00 - 10:00 a.m. Please dress for a mess as volunteers will be working outdoors. Please wear close-toed shoes and bring other items such as sun-screen, bug spray, a hat or other items as needed. Make sure to bring your reusbale water bottle and help us go plastic free! We will have a water cooler with a spout for refills. If you forget your water bottle water fountains are also available. We hope to see you at the event! Additional info: Location Where the opportunity will occur 5165 Metrowest Blvd Orlando , FL 32811 Location Description: Sign in at the tables near the restroom. Get Directions Coordinates: 28.5171,-81.449721 Contact Info Contact person for the opportunity Contact 1 Email: keeporlandobeautiful@orlando.gov Primary Phone: (407) 246-2752 Contact 2 Contact Address Address to use when contacting someone about this opportunity. (see location for opportunity location) 1010 Woods Ave. Orlando, FL 32805 Sign Up No schedule slot openings available. Login New Volunteer Close",
-      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
-      "location": "Where the opportunity will occur",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "parks",
-        "community"
-      ],
-      "last_seen_at": "2026-07-19T07:36:57.705433+00:00"
+      "last_seen_at": "2026-07-22T07:43:46.391402+00:00"
     },
     {
       "id": "orlando-cares-3523",
@@ -106,7 +107,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:02.136966+00:00"
+      "last_seen_at": "2026-07-22T07:43:50.957934+00:00"
     },
     {
       "id": "orlando-cares-3527",
@@ -122,7 +123,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:06.168127+00:00"
+      "last_seen_at": "2026-07-22T07:43:55.098688+00:00"
     },
     {
       "id": "orlando-cares-3512",
@@ -139,7 +140,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:09.536260+00:00"
+      "last_seen_at": "2026-07-22T07:43:59.034521+00:00"
     },
     {
       "id": "orlando-cares-3499",
@@ -156,7 +157,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:13.101712+00:00"
+      "last_seen_at": "2026-07-22T07:44:02.895479+00:00"
     },
     {
       "id": "orlando-cares-3514",
@@ -173,7 +174,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:16.589532+00:00"
+      "last_seen_at": "2026-07-22T07:44:06.887166+00:00"
     },
     {
       "id": "orlando-cares-3515",
@@ -190,7 +191,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:20.339771+00:00"
+      "last_seen_at": "2026-07-22T07:44:10.791928+00:00"
     },
     {
       "id": "orlando-cares-3517",
@@ -207,7 +208,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:23.716393+00:00"
+      "last_seen_at": "2026-07-22T07:44:14.640304+00:00"
     },
     {
       "id": "orlando-cares-3516",
@@ -224,7 +225,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:27.276621+00:00"
+      "last_seen_at": "2026-07-22T07:44:18.453028+00:00"
     },
     {
       "id": "orlando-cares-3518",
@@ -241,7 +242,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:30.638442+00:00"
+      "last_seen_at": "2026-07-22T07:44:22.345268+00:00"
     },
     {
       "id": "orlando-cares-3519",
@@ -258,7 +259,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:34.098611+00:00"
+      "last_seen_at": "2026-07-22T07:44:26.340169+00:00"
     },
     {
       "id": "orlando-cares-3283",
@@ -275,7 +276,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:39.705906+00:00"
+      "last_seen_at": "2026-07-22T07:44:30.212820+00:00"
     },
     {
       "id": "orlando-cares-3304",
@@ -292,14 +293,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:43.123031+00:00"
+      "last_seen_at": "2026-07-22T07:44:34.004366+00:00"
     },
     {
       "id": "orlando-cares-3509",
       "source_id": "3509",
       "title": "Volunteer Open House for Harry P. Leu Gardens - July 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3509",
-      "description": "Volunteer Open House for Harry P. Leu Gardens - July 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: July 11th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 07/11/2026 through 15 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule ",
+      "description": "Volunteer Open House for Harry P. Leu Gardens - July 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: July 11th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 07/11/2026 through 14 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule ",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
@@ -310,7 +311,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:46.609949+00:00"
+      "last_seen_at": "2026-07-22T07:44:37.872206+00:00"
     },
     {
       "id": "orlando-cares-3130",
@@ -327,14 +328,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:50.860930+00:00"
+      "last_seen_at": "2026-07-22T07:44:43.402687+00:00"
     },
     {
       "id": "orlando-cares-2889",
       "source_id": "2889",
       "title": "CERT Volunteers - Community Emergency Response Team",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/2889",
-      "description": "CERT Volunteers - Community Emergency Response Team Orlando Fire Department 0 similar opportunities Similar Opportunities Description Position: The Community Emergency Response Team (CERT) program educates volunteers about disaster preparedness for the hazards that may occur where they live. CERT trains volunteers in basic disaster response skills, such as: Fire safety Light search and rescue Team organization Disaster medical operations The CERT program offers a consistent, nationwide approach to volunteer training and organization that professional responders can rely on during disaster situations, allowing them to focus on more complex tasks. Qualifications: Volunteers must complete a mandatory CERT Basic Training either online or in-person in order to be CERT certified. Volunteers will also need to complete and pass a background screening prior to beginning their service. Responsibilities: Once CERT trained, volunteers will have the opportunity to participate in community events focused on safety and disaster preparedness. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 06/29/2023 through 191 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur Orlando , FL Location Description: Once CERT Certified, volunteers will join a CERT Team in their District. Coordina",
+      "description": "CERT Volunteers - Community Emergency Response Team Orlando Fire Department 0 similar opportunities Similar Opportunities Description Position: The Community Emergency Response Team (CERT) program educates volunteers about disaster preparedness for the hazards that may occur where they live. CERT trains volunteers in basic disaster response skills, such as: Fire safety Light search and rescue Team organization Disaster medical operations The CERT program offers a consistent, nationwide approach to volunteer training and organization that professional responders can rely on during disaster situations, allowing them to focus on more complex tasks. Qualifications: Volunteers must complete a mandatory CERT Basic Training either online or in-person in order to be CERT certified. Volunteers will also need to complete and pass a background screening prior to beginning their service. Responsibilities: Once CERT trained, volunteers will have the opportunity to participate in community events focused on safety and disaster preparedness. Additional info: Minimum age: 16 Availability Schedule Shifts Opportunity available: 06/29/2023 through 190 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur Orlando , FL Location Description: Once CERT Certified, volunteers will join a CERT Team in their District. Coordina",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -343,7 +344,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-07-19T07:37:54.253653+00:00"
+      "last_seen_at": "2026-07-22T07:44:47.360364+00:00"
     }
   ]
 }
