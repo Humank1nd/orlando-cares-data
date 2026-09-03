@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-09-02T09:42:16.966808+00:00",
+  "scraped_at": "2026-09-03T09:55:40.311279+00:00",
   "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-  "total_opportunities": 24,
+  "total_opportunities": 26,
   "opportunities": [
     {
-      "id": "orlando-cares-3549",
-      "source_id": "3549",
-      "title": "Florida Climate Week Trash Blitz Cleanup",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3549",
-      "description": "Back to Previous Opportunity Details Florida Climate Week Trash Blitz Cleanup Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful as we celebrate Florida Climate Week with a community cleanup! Let's educate, engage, and act in our community to do our part to make a difference for our environment. Small actions can make a big difference! This clean up volunteers will be able to participate in community science. Prior to the cleanup download TrashBlitz from your app store and we will be collecting data on what type of litter is found. This helps us to create solutions and act on what we find! Date: October 10, 2026 Time: 9:00 - 11:00 a.m. Location: Eagle Nest Park Once you arrive sign in at the Keep Orlando Beautiful table. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats as needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Additional info: Availability Schedule Shifts Opportunity available: 07/22/2026 through 94 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 5165 Metrowest Blvd Orlando , FL 32811 Location Description: Eagle N",
+      "id": "orlando-cares-3550",
+      "source_id": "3550",
+      "title": "Ocean Friendly Restaurant Cleanup",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3550",
+      "description": "Back to Previous Opportunity Details Ocean Friendly Restaurant Cleanup Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful and Orlando Surfrider as we celebrate Florida Climate Week with a community cleanup! Let's educate, engage, and act in our community to do our part to make a difference for our environment. We have several Ocean Friendly Restaurants downtown that are making choices to help reduce single-use plastics here in Orlando. For Ocean Friendly Restaurant Month and Florida Climate Week we will be cleaning up litter downtown then celebrating at the Kitty Beautiful! Date: October 7, 2026 Time: 5:00 - 7:00 p.m. Location: Downtown Orlando (67 W Robinson St) Please a lot time to find parking downtown. Once you arrive sign in at the Keep Orlando Beautiful table. We will pass out supplies and go over safety gear at 5 p.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats as needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Throughout the event volunteers are welcome to check out the Kitty Beautiful, 20 volunteer at a time in the cat room. Additional info: Location Where the opportunity will occur 67 W Robinson St Orlando , FL 32801 Location Description: Get Directions Coordinates: 28.545804,-81.380535 Contact Info Contact person for the opportunity Contact 1 Emai",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -20,7 +20,24 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:40:43.465612+00:00"
+      "last_seen_at": "2026-09-03T09:53:58.828938+00:00"
+    },
+    {
+      "id": "orlando-cares-3549",
+      "source_id": "3549",
+      "title": "Florida Climate Week Trash Blitz Cleanup",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3549",
+      "description": "Back to Previous Opportunity Details Florida Climate Week Trash Blitz Cleanup Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful as we celebrate Florida Climate Week with a community cleanup! Let's educate, engage, and act in our community to do our part to make a difference for our environment. Small actions can make a big difference! This clean up volunteers will be able to participate in community science. Prior to the cleanup download TrashBlitz from your app store and we will be collecting data on what type of litter is found. This helps us to create solutions and act on what we find! Date: October 10, 2026 Time: 9:00 - 11:00 a.m. Location: Eagle Nest Park Once you arrive sign in at the Keep Orlando Beautiful table. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats as needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Additional info: Availability Schedule Shifts Opportunity available: 07/22/2026 through 93 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 5165 Metrowest Blvd Orlando , FL 32811 Location Description: Eagle N",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Additional info:",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "parks",
+        "community"
+      ],
+      "last_seen_at": "2026-09-03T09:54:02.630701+00:00"
     },
     {
       "id": "orlando-cares-3564",
@@ -37,7 +54,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:40:49.076543+00:00"
+      "last_seen_at": "2026-09-03T09:54:08.032374+00:00"
     },
     {
       "id": "orlando-cares-3575",
@@ -55,7 +72,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:40:53.315129+00:00"
+      "last_seen_at": "2026-09-03T09:54:11.470846+00:00"
     },
     {
       "id": "orlando-cares-3574",
@@ -73,7 +90,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:40:58.472032+00:00"
+      "last_seen_at": "2026-09-03T09:54:15.082918+00:00"
     },
     {
       "id": "orlando-cares-3566",
@@ -91,7 +108,25 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:02.276103+00:00"
+      "last_seen_at": "2026-09-03T09:54:18.781938+00:00"
+    },
+    {
+      "id": "orlando-cares-3563",
+      "source_id": "3563",
+      "title": "Book Buddy 2026-2027 (Rosemont Neighborhood Center)",
+      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3563",
+      "description": "Back to Previous Opportunity Details Book Buddy 2026-2027 (Rosemont Neighborhood Center) Office of Community Affairs 0 similar opportunities Similar Opportunities Description Mission: By encouraging leisure time reading and creative expression, Mayor Buddy's Book Club improves literacy in our community by making reading fun! Position: Book Buddy Duties: Volunteers will assist with weekly book club sessions with students including -Creating book related activities -Facilitating discussion about the current book Time Commitment: Weekly on Wednesdays from 3:30pm to 5pm Location/Setting: City of Orlando - Rosemont Neighborhood Center Screening: A background check is required for this position. Apply/Contact: To apply, click the sign-up button below. If you are new to Orlando Cares, you'll be asked to make an Orlando Cares account in order to sign-up for this opportunity. For more information about this opportunity, please contact Orlando Cares at 407.246.3507 or orlandocares@orlando.gov Additional info: Availability Schedule Shifts Opportunity available: 09/01/2026 through Only 1 Position available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 4872 Rose Bay Dr Orlando , FL 32808 Location Description: Rosemont Neighborhood Center Coordinates: 28.601488,-81.43991 Contact Info Contact person for the opportunity Contact",
+      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
+      "location": "Additional info:",
+      "source": "City of Orlando Volunteer Portal",
+      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
+      "status": "available",
+      "tags": [
+        "youth",
+        "education",
+        "community"
+      ],
+      "last_seen_at": "2026-09-03T09:54:22.360278+00:00"
     },
     {
       "id": "orlando-cares-3561",
@@ -109,7 +144,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:05.916917+00:00"
+      "last_seen_at": "2026-09-03T09:54:25.956295+00:00"
     },
     {
       "id": "orlando-cares-3560",
@@ -127,7 +162,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:09.650251+00:00"
+      "last_seen_at": "2026-09-03T09:54:29.672144+00:00"
     },
     {
       "id": "orlando-cares-3559",
@@ -145,7 +180,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:13.564534+00:00"
+      "last_seen_at": "2026-09-03T09:54:33.526077+00:00"
     },
     {
       "id": "orlando-cares-3553",
@@ -163,14 +198,14 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:17.157363+00:00"
+      "last_seen_at": "2026-09-03T09:54:37.429219+00:00"
     },
     {
       "id": "orlando-cares-3546",
       "source_id": "3546",
       "title": "Orlando Lakes Clean Up (Lake Sunset) September 15, 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3546",
-      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Lake Sunset) September 15, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 15, 2026 Time: 5:30 - 7:30 p.m. Location: Lake Sunset Neighborhood Cleanup will launch from the parking lot on corner of Jacobs Pl and S Tampa Ave. (2000 Jacobs Pl) Volunteers will be helping us collect litter from the Lake Sunset neighborhood, Lizzie Rogers Park, and Lake Sunset shoreline. Once you arrive sign in at the Keep Orlando Beautiful table at the back of the parking lot. We will pass out supplies and go over safety gear at 5:30 p.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Be aware that there is some neighboring construction happening along S Tampa Ave up to Camping World Stadium. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/15/2026 through 29 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 2000 Jacobs Pl Orlando , FL 32805 Location Description",
+      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Lake Sunset) September 15, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 15, 2026 Time: 5:30 - 7:30 p.m. Location: Lake Sunset Neighborhood Cleanup will launch from the parking lot on corner of Jacobs Pl and S Tampa Ave. (2000 Jacobs Pl) Volunteers will be helping us collect litter from the Lake Sunset neighborhood, Lizzie Rogers Park, and Lake Sunset shoreline. Once you arrive sign in at the Keep Orlando Beautiful table at the back of the parking lot. We will pass out supplies and go over safety gear at 5:30 p.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Be aware that there is some neighboring construction happening along S Tampa Ave up to Camping World Stadium. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/15/2026 through 27 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 2000 Jacobs Pl Orlando , FL 32805 Location Description",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -180,14 +215,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:20.582720+00:00"
+      "last_seen_at": "2026-09-03T09:54:40.974782+00:00"
     },
     {
       "id": "orlando-cares-3547",
       "source_id": "3547",
       "title": "Orlando Lakes Clean Up (Lake Fran) September 19, 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3547",
-      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Lake Fran) September 19, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 19, 2026 Time: 8:30 - 10:30 a.m. Location: Lake Fran Volunteers will be helping us collect litter from the lake shoreline and park. This is a special cleanup for us as we are going to the opposite side of the park than the public entrance to give some extra attention to the wetland! Please note this side does not have a water fountain and restroom. You will have to walk about a mile to the entrance to use the restroom. Volunteers can head down the access road located at 4780 Raleigh Street. Once you arrive sign in at the Keep Orlando Beautiful table. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Central Florida RECON will be joining us so feel free to bring your kayak and get out on the lake to collect litter with them. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/15/2026 through 180 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Sc",
+      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Lake Fran) September 19, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 19, 2026 Time: 8:30 - 10:30 a.m. Location: Lake Fran Volunteers will be helping us collect litter from the lake shoreline and park. This is a special cleanup for us as we are going to the opposite side of the park than the public entrance to give some extra attention to the wetland! Please note this side does not have a water fountain and restroom. You will have to walk about a mile to the entrance to use the restroom. Volunteers can head down the access road located at 4780 Raleigh Street. Once you arrive sign in at the Keep Orlando Beautiful table. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Central Florida RECON will be joining us so feel free to bring your kayak and get out on the lake to collect litter with them. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/15/2026 through 179 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Sc",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -197,14 +232,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:25.166369+00:00"
+      "last_seen_at": "2026-09-03T09:54:44.719482+00:00"
     },
     {
       "id": "orlando-cares-3540",
       "source_id": "3540",
       "title": "Orlando Lakes Clean Up (Lake Eola) September 18, 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3540",
-      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Lake Eola) September 18, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 18, 2026 Time: 9 - 11 a.m. Location: Eola House Volunteers will be helping us collect litter from the lake shoreline, park, and neighboring roadways. Volunteers will meet and sign in at the lawn next to Eola House located at 512 E Washington St. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Please arrive a few minutes early to find parking downtown. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/07/2026 through 183 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 512 E Washington St. Orlando , FL 32801 Location Description: Eola House Get Directions Coordinates: 28.543278,-81.37081 Contact Info Contact person for the opportunity Contact 1 Email: keeporlandobeautiful@orlando.gov Primary Phone: (407) 246-27",
+      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Lake Eola) September 18, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 18, 2026 Time: 9 - 11 a.m. Location: Eola House Volunteers will be helping us collect litter from the lake shoreline, park, and neighboring roadways. Volunteers will meet and sign in at the lawn next to Eola House located at 512 E Washington St. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Please arrive a few minutes early to find parking downtown. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/07/2026 through 182 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 512 E Washington St. Orlando , FL 32801 Location Description: Eola House Get Directions Coordinates: 28.543278,-81.37081 Contact Info Contact person for the opportunity Contact 1 Email: keeporlandobeautiful@orlando.gov Primary Phone: (407) 246-27",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -213,7 +248,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:28.477657+00:00"
+      "last_seen_at": "2026-09-03T09:54:48.351836+00:00"
     },
     {
       "id": "orlando-cares-3543",
@@ -229,14 +264,14 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:32.502914+00:00"
+      "last_seen_at": "2026-09-03T09:54:51.931090+00:00"
     },
     {
       "id": "orlando-cares-3541",
       "source_id": "3541",
       "title": "Orlando Lakes Clean Up (Colonel Joe Kittinger Park) September 24, 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3541",
-      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Colonel Joe Kittinger Park) September 24, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 24, 2026 Time: 9 - 11 a.m. Location: Colonel Joe Kittinger Park Volunteers will be helping us collect litter from the lake shoreline, park, and neighboring roadways. Once you arrive sign in at the Keep Orlando Beautiful table at the front of the park. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Overflow parking available on grass lot across from the park. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/07/2026 through 8 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 305 S Crystal Lake Dr Orlando , FL 32803 Location Description: Get Directions Coordinates: 28.539754,-81.341473 Contact Info Contact person for the opportunity Contact 1 Email: keeporlandobeautiful@orlando.gov Primary Phone",
+      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Colonel Joe Kittinger Park) September 24, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 24, 2026 Time: 9 - 11 a.m. Location: Colonel Joe Kittinger Park Volunteers will be helping us collect litter from the lake shoreline, park, and neighboring roadways. Once you arrive sign in at the Keep Orlando Beautiful table at the front of the park. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Overflow parking available on grass lot across from the park. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/07/2026 through 7 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 305 S Crystal Lake Dr Orlando , FL 32803 Location Description: Get Directions Coordinates: 28.539754,-81.341473 Contact Info Contact person for the opportunity Contact 1 Email: keeporlandobeautiful@orlando.gov Primary Phone",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -245,14 +280,14 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:35.963846+00:00"
+      "last_seen_at": "2026-09-03T09:54:55.549277+00:00"
     },
     {
       "id": "orlando-cares-3544",
       "source_id": "3544",
       "title": "Orlando Lakes Clean Up (Clear Lake Park) September 5, 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3544",
-      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Clear Lake Park) September 5, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 5, 2026 Time: 9 - 11 a.m. Location: Clear Lake Park Volunteers will be helping us collect litter from the lake shoreline, park, and neighboring roadways. Once you arrive sign in at the Keep Orlando Beautiful table at the front of the park. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/15/2026 through 10 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 2301 29th Street Orlando , FL 32805 Location Description: Clear Lake Park Get Directions Coordinates: 28.514031,-81.407979 Contact Info Contact person for the opportunity Contact 1 Email: keeporlandobeautiful@orlando.gov Primary Phone: (407) 246-2752 Contact 2 Contact Address Address to use when contacting ",
+      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Clear Lake Park) September 5, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 5, 2026 Time: 9 - 11 a.m. Location: Clear Lake Park Volunteers will be helping us collect litter from the lake shoreline, park, and neighboring roadways. Once you arrive sign in at the Keep Orlando Beautiful table at the front of the park. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/15/2026 through 8 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 2301 29th Street Orlando , FL 32805 Location Description: Clear Lake Park Get Directions Coordinates: 28.514031,-81.407979 Contact Info Contact person for the opportunity Contact 1 Email: keeporlandobeautiful@orlando.gov Primary Phone: (407) 246-2752 Contact 2 Contact Address Address to use when contacting s",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -261,7 +296,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:39.846355+00:00"
+      "last_seen_at": "2026-09-03T09:54:59.210871+00:00"
     },
     {
       "id": "orlando-cares-3548",
@@ -279,7 +314,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:43.814934+00:00"
+      "last_seen_at": "2026-09-03T09:55:03.055587+00:00"
     },
     {
       "id": "orlando-cares-3538",
@@ -297,7 +332,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:47.359798+00:00"
+      "last_seen_at": "2026-09-03T09:55:06.805085+00:00"
     },
     {
       "id": "orlando-cares-3532",
@@ -314,7 +349,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:52.109791+00:00"
+      "last_seen_at": "2026-09-03T09:55:12.887985+00:00"
     },
     {
       "id": "orlando-cares-2902",
@@ -331,7 +366,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:55.817385+00:00"
+      "last_seen_at": "2026-09-03T09:55:16.790782+00:00"
     },
     {
       "id": "orlando-cares-3531",
@@ -348,7 +383,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:41:59.346475+00:00"
+      "last_seen_at": "2026-09-03T09:55:24.083011+00:00"
     },
     {
       "id": "orlando-cares-3283",
@@ -365,7 +400,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:42:04.426786+00:00"
+      "last_seen_at": "2026-09-03T09:55:27.674091+00:00"
     },
     {
       "id": "orlando-cares-3304",
@@ -382,7 +417,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:42:08.526888+00:00"
+      "last_seen_at": "2026-09-03T09:55:31.229193+00:00"
     },
     {
       "id": "orlando-cares-3130",
@@ -399,7 +434,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:42:13.189487+00:00"
+      "last_seen_at": "2026-09-03T09:55:36.165682+00:00"
     },
     {
       "id": "orlando-cares-2889",
@@ -415,7 +450,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-09-02T09:42:16.966783+00:00"
+      "last_seen_at": "2026-09-03T09:55:40.311257+00:00"
     }
   ]
 }
