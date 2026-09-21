@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-09-19T09:35:43.602066+00:00",
+  "scraped_at": "2026-09-21T10:47:56.835072+00:00",
   "source": "City of Orlando Volunteer Portal",
   "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-  "total_opportunities": 26,
+  "total_opportunities": 24,
   "opportunities": [
     {
       "id": "orlando-cares-3585",
@@ -20,7 +20,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:09.207038+00:00"
+      "last_seen_at": "2026-09-21T10:46:24.748352+00:00"
     },
     {
       "id": "orlando-cares-3587",
@@ -37,7 +37,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:12.708849+00:00"
+      "last_seen_at": "2026-09-21T10:46:28.268045+00:00"
     },
     {
       "id": "orlando-cares-3588",
@@ -54,7 +54,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:16.237194+00:00"
+      "last_seen_at": "2026-09-21T10:46:31.919526+00:00"
     },
     {
       "id": "orlando-cares-3583",
@@ -71,14 +71,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:19.724106+00:00"
+      "last_seen_at": "2026-09-21T10:46:35.550979+00:00"
     },
     {
       "id": "orlando-cares-3582",
       "source_id": "3582",
       "title": "Volunteer Open House for Harry P. Leu Gardens - October 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3582",
-      "description": "Back to Previous Opportunity Details Volunteer Open House for Harry P. Leu Gardens - October 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: October 24th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 10/24/2026 through 43 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Sch",
+      "description": "Back to Previous Opportunity Details Volunteer Open House for Harry P. Leu Gardens - October 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: October 24th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 10/24/2026 through 42 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Sch",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
@@ -89,7 +89,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:23.343495+00:00"
+      "last_seen_at": "2026-09-21T10:46:39.159112+00:00"
     },
     {
       "id": "orlando-cares-3550",
@@ -106,14 +106,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:26.883440+00:00"
+      "last_seen_at": "2026-09-21T10:46:43.122863+00:00"
     },
     {
       "id": "orlando-cares-3549",
       "source_id": "3549",
       "title": "Florida Climate Week Trash Blitz Cleanup",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3549",
-      "description": "Back to Previous Opportunity Details Florida Climate Week Trash Blitz Cleanup Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful as we celebrate Florida Climate Week with a community cleanup! Let's educate, engage, and act in our community to do our part to make a difference for our environment. Small actions can make a big difference! This clean up volunteers will be able to participate in community science. Prior to the cleanup download TrashBlitz from your app store and we will be collecting data on what type of litter is found. This helps us to create solutions and act on what we find! Date: October 10, 2026 Time: 9:00 - 11:00 a.m. Location: Eagle Nest Park Once you arrive sign in at the Keep Orlando Beautiful table. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats as needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Additional info: Availability Schedule Shifts Opportunity available: 07/22/2026 through 90 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 5165 Metrowest Blvd Orlando , FL 32811 Location Description: Eagle N",
+      "description": "Back to Previous Opportunity Details Florida Climate Week Trash Blitz Cleanup Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful as we celebrate Florida Climate Week with a community cleanup! Let's educate, engage, and act in our community to do our part to make a difference for our environment. Small actions can make a big difference! This clean up volunteers will be able to participate in community science. Prior to the cleanup download TrashBlitz from your app store and we will be collecting data on what type of litter is found. This helps us to create solutions and act on what we find! Date: October 10, 2026 Time: 9:00 - 11:00 a.m. Location: Eagle Nest Park Once you arrive sign in at the Keep Orlando Beautiful table. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats as needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Additional info: Availability Schedule Shifts Opportunity available: 07/22/2026 through 88 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 5165 Metrowest Blvd Orlando , FL 32811 Location Description: Eagle N",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Additional info:",
       "source": "City of Orlando Volunteer Portal",
@@ -123,7 +123,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:30.431138+00:00"
+      "last_seen_at": "2026-09-21T10:46:46.815178+00:00"
     },
     {
       "id": "orlando-cares-3564",
@@ -140,14 +140,14 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:35.783913+00:00"
+      "last_seen_at": "2026-09-21T10:46:51.994178+00:00"
     },
     {
       "id": "orlando-cares-3574",
       "source_id": "3574",
       "title": "Volunteer Open House for Harry P. Leu Gardens - September 2026",
       "link": "https://volunteer.orlando.gov/custom/501/opp_details/3574",
-      "description": "Back to Previous Opportunity Details Volunteer Open House for Harry P. Leu Gardens - September 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: September 19th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 09/19/2026 through 23 Positions available! There are no available shifts for this opportunity. Schedule Shift available!",
+      "description": "Back to Previous Opportunity Details Volunteer Open House for Harry P. Leu Gardens - September 2026 Harry P. Leu Gardens 0 similar opportunities Similar Opportunities Description Harry P. Leu Gardens Volunteer Open House: September 19th, 10:00am to 11:30am Join a vibrant community of nature lovers, history enthusiasts, and service-minded individuals who help make Harry P. Leu Gardens a beautiful and welcoming place for all. From greeting guests and leading tours to helping in the gardens and supporting special events, our volunteers play a vital role in everything we do. Whether you have a few hours a week or are looking for seasonal opportunities, there's a place for you to grow, give back, and connect. Our Volunteer Open House is the start of your volunteering journey! We will cover all the different types of volunteer opportunities available including horticultural, educational, and event support. After the Open House, you will have the option of which team (or teams!) to join and will be given access to all our specific volunteer opportunities. Schedule: 10:00am - Meet & greet staff and volunteers 10:15am - Official start and introduction 10:30am - Department breakdowns 10:50am - Orland Cares Tutorial 11:00am - Questions We will end with an optional tour of the Gardens! Additional info: Minimum age: 18 Availability Schedule Shifts Opportunity available: 09/19/2026 through 32 Positions available! There are no available shifts for this opportunity. Schedule Shift available!",
       "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
       "location": "Where the opportunity will occur",
       "source": "City of Orlando Volunteer Portal",
@@ -158,7 +158,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:39.407782+00:00"
+      "last_seen_at": "2026-09-21T10:46:55.685571+00:00"
     },
     {
       "id": "orlando-cares-3566",
@@ -176,7 +176,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:42.926197+00:00"
+      "last_seen_at": "2026-09-21T10:46:59.255758+00:00"
     },
     {
       "id": "orlando-cares-3563",
@@ -194,7 +194,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:46.345249+00:00"
+      "last_seen_at": "2026-09-21T10:47:03.360300+00:00"
     },
     {
       "id": "orlando-cares-3561",
@@ -212,7 +212,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:49.863260+00:00"
+      "last_seen_at": "2026-09-21T10:47:07.034834+00:00"
     },
     {
       "id": "orlando-cares-3559",
@@ -230,7 +230,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:53.280806+00:00"
+      "last_seen_at": "2026-09-21T10:47:11.117237+00:00"
     },
     {
       "id": "orlando-cares-3553",
@@ -248,40 +248,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:34:56.785771+00:00"
-    },
-    {
-      "id": "orlando-cares-3547",
-      "source_id": "3547",
-      "title": "Orlando Lakes Clean Up (Lake Fran) September 19, 2026",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3547",
-      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Lake Fran) September 19, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 19, 2026 Time: 8:30 - 10:30 a.m. Location: Lake Fran Volunteers will be helping us collect litter from the lake shoreline and park. This is a special cleanup for us as we are going to the opposite side of the park than the public entrance to give some extra attention to the wetland! Please note this side does not have a water fountain and restroom. You will have to walk about a mile to the entrance to use the restroom. Volunteers can head down the access road located at 4780 Raleigh Street. Once you arrive sign in at the Keep Orlando Beautiful table. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Central Florida RECON will be joining us so feel free to bring your kayak and get out on the lake to collect litter with them. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/15/2026 through 158 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Sc",
-      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
-      "location": "Additional info:",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "parks",
-        "community"
-      ],
-      "last_seen_at": "2026-09-19T09:35:00.406020+00:00"
-    },
-    {
-      "id": "orlando-cares-3540",
-      "source_id": "3540",
-      "title": "Orlando Lakes Clean Up (Lake Eola) September 18, 2026",
-      "link": "https://volunteer.orlando.gov/custom/501/opp_details/3540",
-      "description": "Back to Previous Opportunity Details Orlando Lakes Clean Up (Lake Eola) September 18, 2026 Keep Orlando Beautiful 0 similar opportunities Similar Opportunities Description Join Keep Orlando Beautiful for the Orlando Lakes Clean Up sponsored by Love, Tito's. Date: September 18, 2026 Time: 9 - 11 a.m. Location: Eola House Volunteers will be helping us collect litter from the lake shoreline, park, and neighboring roadways. Volunteers will meet and sign in at the lawn next to Eola House located at 512 E Washington St. We will pass out supplies and go over safety gear at 9 a.m. Please dress for a mess as volunteers will be working outside. Please wear close-toed shoes and bring other items such as sun screen, bug spray or hats needed. Water will be provided but please bring a refillable water bottle to help reduce plastic waste! Please arrive a few minutes early to find parking downtown. We hope to see you at the event! Additional info: Availability Schedule Shifts Opportunity available: 07/07/2026 through 154 Positions available! There are no available shifts for this opportunity. Schedule Shift available! Schedule Shifts available! Show hide schedule slots filter schedule shifts Show in Calendar Location Where the opportunity will occur 512 E Washington St. Orlando , FL 32801 Location Description: Eola House Get Directions Coordinates: 28.543278,-81.37081 Contact Info Contact person for the opportunity Contact 1 Email: keeporlandobeautiful@orlando.gov Primary Phone: (407) 246-27",
-      "date": "[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-html-popup].tooltip.right-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-template-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow,[uib-popover-html-popup].popover.top-left > .arrow,[uib-popover-html-popup].popover.top-right > .arrow,[uib-popover-html-popup].popover.bottom-left > .arrow,[uib-popover-html-popup].popover.bottom-right > .arrow,[uib-popover-html-popup].popover.left-top > .arrow,[uib-popover-html-popup].popover.left-bottom > .arrow,[uib-popover-html-popup].popover.right-top > .arrow,[uib-popover-html-popup].popover.right-bottom > .arrow,[uib-popover-template-popup].popover.top-left > .arrow,[uib-popover-template-popup].popover.top-right > .arrow,[uib-popover-template-popup].popover.bottom-left > .arrow,[uib-popover-template-popup].popover.bottom-right > .arrow,[uib-popover-template-popup].popover.left-top > .arrow,[uib-popover-template-popup].popover.left-bottom > .arrow,[uib-popover-template-popup].popover.right-top > .arrow,[uib-popover-template-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-html-popup].popover,[uib-popover-template-popup].popover{display:block !important;}",
-      "location": "Additional info:",
-      "source": "City of Orlando Volunteer Portal",
-      "source_url": "https://volunteer.orlando.gov/custom/501/opp_search",
-      "status": "available",
-      "tags": [
-        "community"
-      ],
-      "last_seen_at": "2026-09-19T09:35:04.371331+00:00"
+      "last_seen_at": "2026-09-21T10:47:18.311842+00:00"
     },
     {
       "id": "orlando-cares-3541",
@@ -297,7 +264,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:09.470721+00:00"
+      "last_seen_at": "2026-09-21T10:47:22.205372+00:00"
     },
     {
       "id": "orlando-cares-3548",
@@ -315,7 +282,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:13.206351+00:00"
+      "last_seen_at": "2026-09-21T10:47:25.912946+00:00"
     },
     {
       "id": "orlando-cares-3538",
@@ -333,7 +300,7 @@
         "education",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:16.691214+00:00"
+      "last_seen_at": "2026-09-21T10:47:29.570788+00:00"
     },
     {
       "id": "orlando-cares-3532",
@@ -350,7 +317,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:21.169181+00:00"
+      "last_seen_at": "2026-09-21T10:47:34.201139+00:00"
     },
     {
       "id": "orlando-cares-2902",
@@ -367,7 +334,7 @@
         "youth",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:24.617690+00:00"
+      "last_seen_at": "2026-09-21T10:47:37.745841+00:00"
     },
     {
       "id": "orlando-cares-3531",
@@ -384,7 +351,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:28.066950+00:00"
+      "last_seen_at": "2026-09-21T10:47:41.745711+00:00"
     },
     {
       "id": "orlando-cares-3283",
@@ -401,7 +368,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:31.600973+00:00"
+      "last_seen_at": "2026-09-21T10:47:45.432376+00:00"
     },
     {
       "id": "orlando-cares-3304",
@@ -418,7 +385,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:35.136720+00:00"
+      "last_seen_at": "2026-09-21T10:47:49.130998+00:00"
     },
     {
       "id": "orlando-cares-3130",
@@ -435,7 +402,7 @@
         "parks",
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:39.176971+00:00"
+      "last_seen_at": "2026-09-21T10:47:53.232456+00:00"
     },
     {
       "id": "orlando-cares-2889",
@@ -451,7 +418,7 @@
       "tags": [
         "community"
       ],
-      "last_seen_at": "2026-09-19T09:35:43.602041+00:00"
+      "last_seen_at": "2026-09-21T10:47:56.835044+00:00"
     }
   ]
 }
